@@ -1,5 +1,5 @@
 ## WIND TURBINE DATA ANALYSIS
-<img src="https://i.pinimg.com/originals/c4/d2/f9/c4d2f98e88a85b702f8ff257d74714d8.gif" alt="insurance" width=400>
+<img src="https://i.pinimg.com/originals/c4/d2/f9/c4d2f98e88a85b702f8ff257d74714d8.gif" alt="insurance" align="middle" width=400>
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
