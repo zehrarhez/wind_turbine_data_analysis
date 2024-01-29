@@ -1,5 +1,5 @@
 ## WIND TURBINE DATA ANALYSIS
-<img src="https://i.pinimg.com/originals/c4/d2/f9/c4d2f98e88a85b702f8ff257d74714d8.gif" alt="insurance" width=250>
+<img src="https://i.pinimg.com/originals/c4/d2/f9/c4d2f98e88a85b702f8ff257d74714d8.gif" alt="insurance" width=400>
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -18,7 +18,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -101,8 +100,8 @@ Project Link: [Wind Turbines Data Analysis](https://github.com/zehrarhez/wind_tu
 ## Acknowledgments
 
 * [Exploratory Data Analysis](https://www.geeksforgeeks.org/what-is-exploratory-data-analysis/)
-  
-  For More:
+
+For More:
   
 * [Preprocessing the Data](https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python/)
 * [Cross Validation](https://scikit-learn.org/stable/modules/cross_validation.html)
